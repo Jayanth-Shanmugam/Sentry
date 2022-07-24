@@ -5,5 +5,8 @@ print(contents)
 option = input()
 
 if option == '1':
+    #clear model and reset weights and redo setup
     fam_mem = input("How many family members do you live with?\n")
     #capture_faces(fam_mem)
+elif option == '2':
+    #sentry_mode()
