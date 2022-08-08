@@ -15,9 +15,9 @@
 -----------------------------------------------------------------------------------
 
 WELCOME TO SENTRY!
-Sentry is an AI enabled security camera for all homes. It recognizes any family 
-member or relative waiting at your door, and sends a WhatsApp notification to the 
-user.
+Sentry is a smart security camera system. It uses real-time face recognition to identify family members.
+It is fairly easy to use and some general instructions are provided below.
+
 
 General Instructions:-
 
