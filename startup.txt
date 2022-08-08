@@ -1,0 +1,40 @@
+
+      ___           ___           ___                       ___                 
+     /  /\         /  /\         /__/\          ___        /  /\          ___   
+    /  /:/_       /  /:/_        \  \:\        /  /\      /  /::\        /__/|  
+   /  /:/ /\     /  /:/ /\        \  \:\      /  /:/     /  /:/\:\      |  |:|  
+  /  /:/ /::\   /  /:/ /:/_   _____\__\:\    /  /:/     /  /:/~/:/      |  |:|  
+ /__/:/ /:/\:\ /__/:/ /:/ /\ /__/::::::::\  /  /::\    /__/:/ /:/___  __|__|:|  
+ \  \:\/:/~/:/ \  \:\/:/ /:/ \  \:\~~\~~\/ /__/:/\:\   \  \:\/:::::/ /__/::::\  
+  \  \::/ /:/   \  \::/ /:/   \  \:\  ~~~  \__\/  \:\   \  \::/~~~~     ~\~~\:\ 
+   \__\/ /:/     \  \:\/:/     \  \:\           \  \:\   \  \:\           \  \:\
+     /__/:/       \  \::/       \  \:\           \__\/    \  \:\           \__\/
+     \__\/         \__\/         \__\/                     \__\/                
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+WELCOME TO SENTRY!
+Sentry is an AI enabled security camera for all homes. It recognizes any family 
+member or relative waiting at your door, and sends a WhatsApp notification to the 
+user.
+
+General Instructions:-
+
+-- If it's your first time using sentry enter "setup" to go through the setup phase. 
+   The setup phase collects the data required and hence might take some time so, be 
+   patient.
+
+-- Once setup, enter "start" to enter sentry mode. If you want to exit out of sentry 
+   mode, hit the esc button.
+
+-- If you want to reset sentry, enter "reset". Reset will erase all of the data, and 
+   you will have to go through the setup again.
+
+-- To add a family member enter "add" followed by the name of the family member after
+   which, the family member will be prompted to setup his/her face.
+
+-- If you want to exit the application enter "exit" to exit the application.
+
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
