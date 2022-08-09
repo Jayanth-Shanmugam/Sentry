@@ -25,9 +25,11 @@ following which, you will be prompted with the UI
 
 Go through the general instructions to set up sentry and once done you are all ready to go!.
 
+![ui](resources/startup.png)
+
 Here is a working example. In this example I have gone through the set up stages.
 
-![demo](https://github.com/Jayanth-Shanmugam/Sentry/blob/main/sentry_demo.gif)
+![demo](resources/sentry_demo.gif)
 
 
 
