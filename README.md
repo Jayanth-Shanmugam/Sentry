@@ -25,7 +25,7 @@ following which, you will be prompted with the UI
 
 Go through the general instructions to set up sentry and once done you are all ready to go!.
 
-<img src="resources/startup.png" width = "250" height = "250">
+<img src="resources/startup.png" width = "650" height = "250">
 
 Here is a working example. In this example I have gone through the set up stages.
 
