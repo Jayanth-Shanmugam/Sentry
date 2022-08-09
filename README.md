@@ -27,7 +27,7 @@ Go through the general instructions to set up sentry and once done you are all r
 
 Here is a working example. In this example I have gone through the set up stages.
 
-![demo]()
+![demo](https://github.com/Jayanth-Shanmugam/Sentry/blob/main/sentry_demo.gif)
 
 
 
