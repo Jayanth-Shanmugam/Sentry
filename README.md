@@ -22,7 +22,7 @@ In the final stage, a fresh set of faces is given to the recognizer in the form 
 # Running the program
 Now that we have gone through its implementation, we can run the program. To do so, open up the terminal, activate your venv, and run the command ```python startup.py```
 following which, you will be prompted with the UI 
-
+```
       ___           ___           ___                       ___                 
      /  /\         /  /\         /__/\          ___        /  /\          ___   
     /  /:/_       /  /:/_        \  \:\        /  /\      /  /::\        /__/|  
@@ -62,11 +62,13 @@ General Instructions:-
 
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
-SENTRY-->_
+SENTRY-->_```
 
 Go through the general instructions to set up sentry and once done you are all ready to go!.
 
 Here is a working example. In this example I have gone through the set up stages.
+
+![demo]()
 
 
 
