@@ -22,47 +22,6 @@ In the final stage, a fresh set of faces is given to the recognizer in the form 
 # Running the program
 Now that we have gone through its implementation, we can run the program. To do so, open up the terminal, activate your venv, and run the command ```python startup.py```
 following which, you will be prompted with the UI 
-```
-      ___           ___           ___                       ___                 
-     /  /\         /  /\         /__/\          ___        /  /\          ___   
-    /  /:/_       /  /:/_        \  \:\        /  /\      /  /::\        /__/|  
-   /  /:/ /\     /  /:/ /\        \  \:\      /  /:/     /  /:/\:\      |  |:|  
-  /  /:/ /::\   /  /:/ /:/_   _____\__\:\    /  /:/     /  /:/~/:/      |  |:|  
- /__/:/ /:/\:\ /__/:/ /:/ /\ /__/::::::::\  /  /::\    /__/:/ /:/___  __|__|:|  
- \  \:\/:/~/:/ \  \:\/:/ /:/ \  \:\~~\~~\/ /__/:/\:\   \  \:\/:::::/ /__/::::\  
-  \  \::/ /:/   \  \::/ /:/   \  \:\  ~~~  \__\/  \:\   \  \::/~~~~     ~\~~\:\ 
-   \__\/ /:/     \  \:\/:/     \  \:\           \  \:\   \  \:\           \  \:\
-     /__/:/       \  \::/       \  \:\           \__\/    \  \:\           \__\/
-     \__\/         \__\/         \__\/                     \__\/                
-
------------------------------------------------------------------------------------
------------------------------------------------------------------------------------
-
-WELCOME TO SENTRY!
-Sentry is an AI enabled security camera for all homes. It recognizes any family 
-member or relative waiting at your door, and sends a WhatsApp notification to the 
-user.
-
-General Instructions:-
-
--- If it's your first time using sentry enter "setup" to go through the setup phase. 
-   The setup phase collects the data required and hence might take some time so, be 
-   patient.
-
--- Once setup, enter "start" to enter sentry mode. If you want to exit out of sentry 
-   mode, hit the esc button.
-
--- If you want to reset sentry, enter "reset". Reset will erase all of the data, and 
-   you will have to go through the setup again.
-
--- To add a family member enter "add" followed by the name of the family member after
-   which, the family member will be prompted to setup his/her face.
-
--- If you want to exit the application enter "exit" to exit the application.
-
--------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------
-SENTRY-->_```
 
 Go through the general instructions to set up sentry and once done you are all ready to go!.
 
