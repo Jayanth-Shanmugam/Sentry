@@ -19,3 +19,8 @@ For recognition, the same process is applied to the freash face and the two hist
 ## Recognition 
 In the final stage, a fresh set of faces is given to the recognizer in the form of a video feed and it returns the id along with the confidence of it's prediction.
 
+# Running the program
+Now that we have gone through its implementation, we can run the program. To do so, open up the terminal, activate your venv, and run the command ```python startup.py```
+following which, you will be prompted with the UI 
+
+
