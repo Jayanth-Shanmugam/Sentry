@@ -15,7 +15,7 @@ This project consists of three main stages: Data Collection, Model Training, and
 In this stage the face data of all the people who you want to recognize is captured and stored in a directory called 'datasets'. This stage uses the Haar Cascades object detection algorithm to detect faces. Haar Cascades is an algorithm for object detection which was proposed back in 2001, which uses Haar features and a boosted cascade to detect objects. Its implementation is readily available in OpenCV.
 ## Model Training
 In this stage the face data is fed to the LBPH algorithm, that is trained to recognize the faces in the given dataset. LBPH or Local Binary Pattern Histogram, is an algorithm for recognizing faces. In the first step, Local binary patterns are generated from the image to accentuate the characteristcs of the image. The image is then divided into a grid and the histogram of each grid is concatenated which is it. 
-For recognition, the same process is applied to the freash face and the two histograms are compared to give the prediction. The lesser the confidence, the stronger the prediction.
+For recognition, the same process is applied to the fresh face and the two histograms are compared to give the prediction. The lesser the confidence, the stronger the prediction.
 ## Recognition 
 In the final stage, a fresh set of faces is given to the recognizer in the form of a video feed and it returns the id along with the confidence of it's prediction.
 
