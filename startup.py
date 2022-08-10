@@ -50,6 +50,14 @@ while(True):
             continue
         if choice == "N":
             continue
+            
+     elif option == "add":
+        cam1 = cv.VideoCapture(0)
+        extra = input("Enter their name: ")
+        id = len(os.listdir('dataset'))/30
+        setup.capture_face_data(cam1, face_detect, id, extra)
+        cam1.release()
+        cv.destroyAllWindows()
        
     elif option == "exit":
         break
