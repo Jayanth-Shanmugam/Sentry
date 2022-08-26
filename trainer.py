@@ -28,7 +28,9 @@ def train(face_detect, face_recognize):
     print("Training complete!\n")
     face_recognize.write('classifier/classifier.yml')
 
-
-
-
+def main():
+    print("Testing...")
+    
+if __name__ == "__main__" :
+    main()
 
