@@ -34,4 +34,10 @@ def sentry(face_detect, face_recognize, names):
             break
     cam.release()
     cv.destroyAllWindows()
+    
+def main():
+    print("Testing...")
+    
+if __name__ == "__main__":
+    main()
 
