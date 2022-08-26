@@ -28,3 +28,9 @@ def capture_face_data(cam, face_detect, id, name):
         if count == 30:
             print(name + " your face has been registered!")
             break
+
+def main():
+    print("Testing...")        
+
+if __name__ == "__main__":
+    main()
